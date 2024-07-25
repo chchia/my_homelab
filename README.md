@@ -20,3 +20,6 @@ Proxmox as main OS, running multiple VM with below setup:
 3. Windows 11 with RTX3060 as HTPC and Gaming in TV.
 4. Windows 11 with GTX1650 as a transcoding server.
 5. Ubuntu Cinnamon with UHD730 for fun.
+
+
+This is a <span style="color:red">red</span> text.
