@@ -30,4 +30,4 @@ This is a <span style="color:blue">blue</span> text.
 ![badge](https://img.shields.io/badge/Hello-ff69b4.svg)
 
 ## Image Colored Text
-![Colored Text](https://via.placeholder.com/150/0000FF/808080?text=Hello+World)
+![Colored Text](https://via.placeholder.com/150/0000FF/108010?text=Lets+See+Hello+World)
