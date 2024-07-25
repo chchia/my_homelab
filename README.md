@@ -27,7 +27,7 @@ This is a <span style="color:red">red</span> text.
 This is a <span style="color:blue">blue</span> text.
 
 ## Badge Colored Text
-![badge](https://img.shields.io/badge/Hello-ff69b4.svg)
+![badge](https://img.shields.io/badge/Hello123+456-ff69b4.svg)
 
 ## Image Colored Text
 ![Colored Text](https://via.placeholder.com/150/8800FF/108010?text=Lets+See+Hello+World)
