@@ -1,0 +1,11 @@
+Disable
+
+  Resize Bar
+  SR-IOV (no need as i will do full passthrough)
+  Secure Boot
+
+
+Enable
+
+  VT-D
+  IOMMU
