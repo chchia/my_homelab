@@ -23,3 +23,11 @@ Proxmox as main OS, running multiple VM with below setup:
 
 
 This is a <span style="color:red">red</span> text.
+## HTML Colored Text
+This is a <span style="color:blue">blue</span> text.
+
+## Badge Colored Text
+![badge](https://img.shields.io/badge/Hello-ff69b4.svg)
+
+## Image Colored Text
+![Colored Text](https://via.placeholder.com/150/0000FF/808080?text=Hello+World)
